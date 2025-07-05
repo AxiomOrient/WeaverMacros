@@ -1,0 +1,24 @@
+{
+  "originHash" : "538134e2c58a0e6c1936de6a4ef6d9ceb3aeb249fcaab72e4486592ae83e3685",
+  "pins" : [
+    {
+      "identity" : "swift-syntax",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-syntax.git",
+      "state" : {
+        "revision" : "f99ae8aa18f0cf0d53481901f88a0991dc3bd4a2",
+        "version" : "601.0.1"
+      }
+    },
+    {
+      "identity" : "weaver",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/AxiomOrient/Weaver.git",
+      "state" : {
+        "revision" : "dfb85dba9636126a3d4c6257b136e45f08dc1f07",
+        "version" : "0.0.2"
+      }
+    }
+  ],
+  "version" : 3
+}
